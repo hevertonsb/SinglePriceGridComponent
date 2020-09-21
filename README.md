@@ -4,7 +4,7 @@
 
 ### Project Link
 
-[Project]
+[Link Project on Vercel]
 
 "In this challenge, you will build out the pricing component to the designs provided. This is perfect for beginners and people who want to complete a smaller challenge." [Challenge]
 
@@ -20,4 +20,4 @@
 
 [Challenge]: <https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc>
 
-[Project]: <https://single-price-grid-component-hazel-theta.vercel.app/>
+[Link Project on Vercel]: <https://single-price-grid-component-hazel-theta.vercel.app/>
